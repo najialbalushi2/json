@@ -1,0 +1,9 @@
+{
+  "name": "decrypt",
+  "version": "1.0.0",
+  "description": "Azure Function App",
+  "main": "index.js", // or the entry point for your Azure Function
+  "dependencies": {
+    "@azure/storage-blob": "12.17.0"
+  }
+}
